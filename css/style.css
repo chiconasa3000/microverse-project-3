@@ -35,7 +35,17 @@ main{
 }
 
 .Item_form{
-  width: 100%;
   padding: 10px;
   margin: 10px 0;
+}
+
+#radiobuttons-label, #checkbox-label{
+  padding:10px 0;
+}
+
+#submit{
+  font-size: 20px;
+  color: white;
+  background-color: rgb(55, 156, 55);
+  padding:10px;
 }
