@@ -34,7 +34,7 @@ main{
   align-items: left;
 }
 
-#name{
+.Item_form{
   width: 100%;
   padding: 10px;
   margin: 10px 0;
